@@ -29,12 +29,14 @@ Users should be able to:
 ![desktop-preview](https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/desktop.png)
 
 -result
-(https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/correct-desk.png)
+![desktop-preview](https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/correct-desk.png)
+
 -error
 
-(https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/error.png)
+![desktop-preview](https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/error.png)
 
 -mobile
+
 ![mobile-design](https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/phone.png)
 
 
