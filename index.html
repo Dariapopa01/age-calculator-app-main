@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Frontend Mentor | Age calculator app</title>
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <div class="box">
+       <!-- adding the day, month and year of birth -->
+    <div class="addInput">
+      <!-- add day -->
+      <div>
+        <h4>Day</h4>
+        <input type="text" placeholder="DD" id="day">
+        <h6 class="error"></h6>
+      </div>
+      <!-- add month -->
+      <div>
+        <h4>Month</h4>
+        <input type="text" placeholder="MM" id="month">
+        <h6 class="error"></h6>
+      </div>
+      <!-- add year -->
+      <div>
+        <h4>Year</h4>
+        <input type="text" placeholder="YYYY" id="year">
+        <h6 class="error"></h6>
+      </div>
+    </div>
+    <hr>
+    <button id="submit">
+      <img src="./assets/images/icon-arrow.svg">
+    </button>
+    <!-- getting the calculated age -->
+    <div class="output">
+      <h2><span id="yearRes">--</span> years</h2>
+      <h2><span id="monthRes">--</span> months</h2>
+      <h2><span id="dayRes">--</span> days</h2>
+
+    </div>
+   
+
+    </div>
+  </main>
+<footer>
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="http://dariamelania.com/">Daria Melania</a>.
+  </div>
+</footer>
+  
+<script src="script.js"></script>
+</body>
+</html>
