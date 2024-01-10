@@ -2,9 +2,7 @@
 
 ![Design preview for the Age calculator app coding challenge](./assets/images/desktop.png)
 
-(./assets/images/correct-desk.png)
-(./assets/images/error.png)
-(./assets/images/phone.png)
+
 
 
 ## Welcome! 👋
@@ -25,7 +23,27 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
+### Screenshots
 
+-desktop
+![desktop-preview](https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/desktop.png)
+
+-result
+(https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/correct-desk.png)
+-error
+
+(https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/error.png)
+
+-mobile
+![mobile-design](https://github.com/Dariapopa01/age-calculator-app-main/blob/master/assets/images/phone.png)
+
+
+
+### Built with 
+
+-- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
 
 
 
